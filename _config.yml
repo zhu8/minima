@@ -59,3 +59,5 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+theme: jekyll-theme-minimal
